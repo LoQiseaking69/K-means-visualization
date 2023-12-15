@@ -36,4 +36,4 @@ To run the notebook:
 - The dataset used in this notebook is synthetic and generated within the notebook itself, so no external data files are required.
 
 ## Author
-[Anthony O, Greene]
+Anthony O, Greene
